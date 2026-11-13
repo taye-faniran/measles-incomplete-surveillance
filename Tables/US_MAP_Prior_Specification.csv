@@ -1,0 +1,5 @@
+Parameter,PrimaryPrior,Interpretation
+R_eff,"Uniform(0,1)",Prespecified subcritical model support
+k,"log(k) Uniform(log(0.001),log(1000))",Scale-neutral dispersion prior over six orders of magnitude
+p_p,"Beta(2,2)",Transparent weak regularization; not an empirical ascertainment prior
+p_a,"Beta(2,2)",Transparent weak regularization; not empirical contact-tracing evidence

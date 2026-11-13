@@ -1,0 +1,212 @@
+============================================================
+STARTING THE BOUNDARY-AWARE JLE CORRECTION
+No cluster will be simulated.
+No auxiliary observation will be simulated.
+The exact saved Figure 3 datasets will be retained.
+All 13 unique JLE analyses will be audited.
+Only a verified lower negative log-likelihood can replace a saved fit.
+
+FIGURE 3 ANALYSIS FOLDER:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2
+
+REVISED FIGURE 4 OUTPUT FOLDER:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_PublicationReady
+============================================================
+
+Saved-data checks passed.
+Displayed panels = 16.
+Unique independent analyses = 13.
+Observed clusters per unique analysis = 5000.
+Auxiliary trials per unique analysis = 5000.
+
+The pre-correction cache and Figure 3 files were backed up in:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Before_Global_Optimum_Correction
+
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 10).
+Parallel processing is available for the multistart audit.
+
+(a) auditing true p_p=0.25, p_a=1.00 (1 of 13 unique analyses)...
+    Saved NLL     = 8605.5873137673
+    Audited NLL   = 8605.5873137673
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 15.8 seconds
+    Audit checkpoint saved.
+
+(b) auditing true p_p=0.50, p_a=1.00 (2 of 13 unique analyses)...
+    Saved NLL     = 6890.7704717366
+    Audited NLL   = 6890.7704717366
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 4.1 seconds
+    Audit checkpoint saved.
+
+(c) auditing true p_p=0.75, p_a=1.00 (3 of 13 unique analyses)...
+    Saved NLL     = 5686.3418639455
+    Audited NLL   = 5684.6850109788
+    Improvement   = 1.6568529667 NLL units
+    Audit runtime = 3.6 seconds
+    Audit checkpoint saved.
+
+(d) auditing true p_p=1.00, p_a=1.00 (4 of 13 unique analyses)...
+    Saved NLL     = 4942.7551438569
+    Audited NLL   = 4942.7551438569
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 3.9 seconds
+    Audit checkpoint saved.
+
+(e) auditing true p_p=0.25, p_a=0.75 (5 of 13 unique analyses)...
+    Saved NLL     = 8115.8044872043
+    Audited NLL   = 8115.8044872043
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 10.3 seconds
+    Audit checkpoint saved.
+
+(f) auditing true p_p=0.50, p_a=0.75 (6 of 13 unique analyses)...
+    Saved NLL     = 6318.9101791062
+    Audited NLL   = 6318.9101791062
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 10.7 seconds
+    Audit checkpoint saved.
+
+(g) auditing true p_p=0.75, p_a=0.75 (7 of 13 unique analyses)...
+    Saved NLL     = 5422.5220852511
+    Audited NLL   = 5422.5220852511
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 15.9 seconds
+    Audit checkpoint saved.
+
+(i) auditing true p_p=0.25, p_a=0.50 (8 of 13 unique analyses)...
+    Saved NLL     = 7117.8576552642
+    Audited NLL   = 7117.8576552642
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 8.1 seconds
+    Audit checkpoint saved.
+
+(j) auditing true p_p=0.50, p_a=0.50 (9 of 13 unique analyses)...
+    Saved NLL     = 5861.9168171669
+    Audited NLL   = 5861.9168171669
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 11.6 seconds
+    Audit checkpoint saved.
+
+(k) auditing true p_p=0.75, p_a=0.50 (10 of 13 unique analyses)...
+    Saved NLL     = 5186.3168029115
+    Audited NLL   = 5186.3168029115
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 19.7 seconds
+    Audit checkpoint saved.
+
+(m) auditing true p_p=0.25, p_a=0.25 (11 of 13 unique analyses)...
+    Saved NLL     = 6047.8028432360
+    Audited NLL   = 6047.8028432360
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 18.8 seconds
+    Audit checkpoint saved.
+
+(n) auditing true p_p=0.50, p_a=0.25 (12 of 13 unique analyses)...
+    Saved NLL     = 5379.0156530121
+    Audited NLL   = 5379.0156530120
+    Improvement   = 0.0000000000 NLL units
+    Audit runtime = 7.5 seconds
+    Audit checkpoint saved.
+
+(o) auditing true p_p=0.75, p_a=0.25 (13 of 13 unique analyses)...
+    Saved NLL     = 4906.7881338816
+    Audited NLL   = 4906.7881338816
+    Improvement   = -0.0000000000 NLL units
+    Audit runtime = 11.4 seconds
+    Audit checkpoint saved.
+
+CORRECTING PANEL (c).
+  Old NLL = 5686.3418639455.
+  New NLL = 5684.6850109788.
+  Verified improvement = 1.6568529667 NLL units.
+  New estimate: R_eff=0.4677439, k=0.1366412, p_p=0.6489231, p_a=1.0000000.
+
+Corrected displayed panel(s): (c)
+============================================================
+STARTING THE BOUNDARY-AWARE JLE CORRECTION
+No cluster will be simulated.
+No auxiliary observation will be simulated.
+The exact saved Figure 3 datasets will be retained.
+All 13 unique JLE analyses will be audited.
+Only a verified lower negative log-likelihood can replace a saved fit.
+
+FIGURE 3 ANALYSIS FOLDER:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2
+
+REVISED FIGURE 4 OUTPUT FOLDER:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_PublicationReady
+============================================================
+
+Saved-data checks passed.
+Displayed panels = 16.
+Unique independent analyses = 13.
+Observed clusters per unique analysis = 5000.
+Auxiliary trials per unique analysis = 5000.
+
+The pre-correction cache and Figure 3 files were backed up in:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Before_Global_Optimum_Correction
+
+Parallel processing is available for the multistart audit.
+
+A matching audit checkpoint was found.
+Completed unique analyses = 13 of 13.
+
+(a) audit already complete; loaded from checkpoint.
+(b) audit already complete; loaded from checkpoint.
+(c) audit already complete; loaded from checkpoint.
+(d) audit already complete; loaded from checkpoint.
+(e) audit already complete; loaded from checkpoint.
+(f) audit already complete; loaded from checkpoint.
+(g) audit already complete; loaded from checkpoint.
+(i) audit already complete; loaded from checkpoint.
+(j) audit already complete; loaded from checkpoint.
+(k) audit already complete; loaded from checkpoint.
+(m) audit already complete; loaded from checkpoint.
+(n) audit already complete; loaded from checkpoint.
+(o) audit already complete; loaded from checkpoint.
+CORRECTING PANEL (c).
+  Old NLL = 5686.3418639455.
+  New NLL = 5684.6850109788.
+  Verified improvement = 1.6568529667 NLL units.
+  New estimate: R_eff=0.4677439, k=0.1366412, p_p=0.6489231, p_a=1.0000000.
+
+Corrected displayed panel(s): (c)
+
+The corrected Figure 3 cache passed all checks and was saved.
+The original cache remains recoverable from:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Before_Global_Optimum_Correction\Figure3_JLE_16Panel_PublicationReady_v2_Analysis_Cache_Before_Correction.mat
+
+REDRAWING CORRECTED FIGURE 3 FROM THE CORRECTED CACHE...
+Corrected Figure 3 was redrawn successfully.
+
+CREATING THE REVISED DETECTION-PROFILE FIGURE 4...
+Revised Figure 4 was created successfully.
+
+============================================================
+DONE: THE JLE CORRECTION AND REVISED FIGURE 4 COMPLETED.
+Elapsed time: 2164.5 seconds.
+Exact saved cluster and auxiliary datasets retained: YES.
+Unique analyses audited: 13.
+Panels requiring correction: 1, namely panel (c).
+Old panel (c) NLL = 5686.3418639455.
+New panel (c) NLL = 5684.6850109788.
+NLL improvement = 1.6568529667.
+Corrected panel (c): R_eff=0.4677439, k=0.1366412, p_p=0.6489231, p_a=1.0000000.
+
+ALL CORRECTED FIGURE 3 MATERIALS ARE IN:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2
+
+ALL REVISED FIGURE 4 MATERIALS ARE IN:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_PublicationReady
+
+SAVED CORRECTION CODE:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Repair_JLE_Global_Optimum_Then_Run_Figure4.m
+
+README:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\README_JLE_Global_Optimum_Correction.txt
+
+CORRECTION LOG:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Repair_JLE_Global_Optimum_Command_Window_Log.txt
+============================================================

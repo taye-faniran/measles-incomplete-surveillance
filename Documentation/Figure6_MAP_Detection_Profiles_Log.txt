@@ -1,0 +1,306 @@
+
+============================================================
+STARTING THE MANUSCRIPT-FINAL MAP FIGURE 6
+Horizontal axis: passive detection probability, p_p.
+Vertical axis: active detection probability, p_a.
+No cluster will be simulated.
+No saved MAP point estimate will be changed.
+New detection profile-posterior uncertainty will be calculated.
+The first run is checkpointed panel by panel.
+Later matching runs load the completed cache and redraw quickly.
+
+PROJECT FOLDER:
+<ORIGINAL_PROJECT_ROOT>
+
+ALL FIGURE 6 MATERIALS WILL BE SAVED IN:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal
+============================================================
+
+SAVED MAP ANALYSIS OBJECT:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Final_Release_20260821_221527\Saved_Analysis_Objects\MAP_Figures_5_7_Analysis_Results.mat
+
+EXACT OBSERVED-CLUSTER COUNT FILE:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Final_Release_20260821_221527\Data_and_Numerical_Results\Figure5_7_MAP_Observed_Cluster_Counts.csv
+
+MAP SUMMARY FILE USED FOR AN INDEPENDENT CROSS-CHECK:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Final_Release_20260821_221527\Data_and_Numerical_Results\Figure5_6_MAP_Baseline_Estimates.csv
+
+CSV-versus-MAT MAP estimate check passed exactly.
+Saved MAP input checks passed.
+Displayed surveillance settings = 16.
+One fixed population of true clusters = 10000.
+Observed clusters range from 3213 to 10000.
+The MAP estimates and original Figure 5 intervals are unchanged.
+
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 10).
+Parallel processing is available for the joint contours.
+
+(a) profiling detection for true p_p=0.25, p_a=1.00 (1 of 16)...
+    MAP p_p=0.2075; 95% profile interval [0.1489, 0.2733].
+    MAP p_a=0.7620; 95% profile interval [0.5381, 0.9182].
+    True-pair profile delta NLP = 36.92931.
+    Joint 95% region contains truth: NO.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 113.0 seconds.
+    Checkpoint saved.
+
+(b) profiling detection for true p_p=0.50, p_a=1.00 (2 of 16)...
+    MAP p_p=0.4403; 95% profile interval [0.3443, 0.5473].
+    MAP p_a=0.7616; 95% profile interval [0.5396, 0.9178].
+    True-pair profile delta NLP = 36.97069.
+    Joint 95% region contains truth: NO.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 97.9 seconds.
+    Checkpoint saved.
+
+(c) profiling detection for true p_p=0.75, p_a=1.00 (3 of 16)...
+    MAP p_p=0.6510; 95% profile interval [0.5269, 0.7895].
+    MAP p_a=0.7641; 95% profile interval [0.5402, 0.9192].
+    True-pair profile delta NLP = 37.45783.
+    Joint 95% region contains truth: NO.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 99.1 seconds.
+    Checkpoint saved.
+
+(d) profiling detection for true p_p=1.00, p_a=1.00 (4 of 16)...
+    MAP p_p=0.8097; 95% profile interval [0.6657, 0.9312].
+    MAP p_a=0.7740; 95% profile interval [0.5519, 0.9234].
+    True-pair profile delta NLP = 72.76864.
+    Joint 95% region contains truth: NO.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 101.5 seconds.
+    Checkpoint saved.
+
+(e) profiling detection for true p_p=0.25, p_a=0.75 (5 of 16)...
+    MAP p_p=0.1983; 95% profile interval [0.1299, 0.2782].
+    MAP p_a=0.5480; 95% profile interval [0.3315, 0.7591].
+    True-pair profile delta NLP = 1.80096.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 47.4 seconds.
+    Checkpoint saved.
+
+(f) profiling detection for true p_p=0.50, p_a=0.75 (6 of 16)...
+    MAP p_p=0.4337; 95% profile interval [0.3168, 0.5672].
+    MAP p_a=0.5448; 95% profile interval [0.3296, 0.7562].
+    True-pair profile delta NLP = 1.84425.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 59.5 seconds.
+    Checkpoint saved.
+
+(g) profiling detection for true p_p=0.75, p_a=0.75 (7 of 16)...
+    MAP p_p=0.6591; 95% profile interval [0.5124, 0.8092].
+    MAP p_a=0.5436; 95% profile interval [0.3222, 0.7576].
+    True-pair profile delta NLP = 2.16870.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 85.3 seconds.
+    Checkpoint saved.
+
+(h) profiling detection for true p_p=1.00, p_a=0.75 (8 of 16)...
+    MAP p_p=0.8002; 95% profile interval [0.6381, 0.9295].
+    MAP p_a=0.5654; 95% profile interval [0.3401, 0.7740].
+    True-pair profile delta NLP = 37.71373.
+    Joint 95% region contains truth: NO.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 90.6 seconds.
+    Checkpoint saved.
+
+(i) profiling detection for true p_p=0.25, p_a=0.50 (9 of 16)...
+    MAP p_p=0.1898; 95% profile interval [0.1090, 0.2926].
+    MAP p_a=0.3463; 95% profile interval [0.1718, 0.5656].
+    True-pair profile delta NLP = 1.05790.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 43.7 seconds.
+    Checkpoint saved.
+
+(j) profiling detection for true p_p=0.50, p_a=0.50 (10 of 16)...
+    MAP p_p=0.4617; 95% profile interval [0.3097, 0.6336].
+    MAP p_a=0.3124; 95% profile interval [0.1446, 0.5331].
+    True-pair profile delta NLP = 1.44944.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 44.5 seconds.
+    Checkpoint saved.
+
+(k) profiling detection for true p_p=0.75, p_a=0.50 (11 of 16)...
+    MAP p_p=0.6150; 95% profile interval [0.4464, 0.7888].
+    MAP p_a=0.3456; 95% profile interval [0.1618, 0.5704].
+    True-pair profile delta NLP = 1.83024.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 48.1 seconds.
+    Checkpoint saved.
+
+(l) profiling detection for true p_p=1.00, p_a=0.50 (12 of 16)...
+    MAP p_p=0.7927; 95% profile interval [0.6106, 0.9283].
+    MAP p_a=0.3587; 95% profile interval [0.1676, 0.5873].
+    True-pair profile delta NLP = 37.07744.
+    Joint 95% region contains truth: NO.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 98.1 seconds.
+    Checkpoint saved.
+
+(m) profiling detection for true p_p=0.25, p_a=0.25 (13 of 16)...
+    MAP p_p=0.1594; 95% profile interval [0.0690, 0.2939].
+    MAP p_a=0.1470; 95% profile interval [0.0479, 0.3259].
+    True-pair profile delta NLP = 1.08697.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 43.1 seconds.
+    Checkpoint saved.
+
+(n) profiling detection for true p_p=0.50, p_a=0.25 (14 of 16)...
+    MAP p_p=0.3798; 95% profile interval [0.2181, 0.5827].
+    MAP p_a=0.1454; 95% profile interval [0.0379, 0.3297].
+    True-pair profile delta NLP = 1.14602.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 45.4 seconds.
+    Checkpoint saved.
+
+(o) profiling detection for true p_p=0.75, p_a=0.25 (15 of 16)...
+    MAP p_p=0.5716; 95% profile interval [0.3741, 0.7718].
+    MAP p_a=0.1518; 95% profile interval [0.0373, 0.3548].
+    True-pair profile delta NLP = 1.98174.
+    Joint 95% region contains truth: YES.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 53.7 seconds.
+    Checkpoint saved.
+
+(p) profiling detection for true p_p=1.00, p_a=0.25 (16 of 16)...
+    MAP p_p=0.7882; 95% profile interval [0.5880, 0.9276].
+    MAP p_a=0.1521; 95% profile interval [0.0373, 0.3583].
+    True-pair profile delta NLP = 36.90665.
+    Joint 95% region contains truth: NO.
+    Joint region touches a probability bound: NO.
+    Panel runtime = 103.3 seconds.
+    Checkpoint saved.
+
+
+FINAL SCIENTIFIC CHECKS
+Mean absolute error for p_p = 0.115123.
+Mean absolute error for p_a, excluding the four generating p_p=1 settings = 0.177278.
+Separate p_p intervals containing truth = 12 of 16.
+Separate p_a intervals containing truth among data-identifiable settings = 9 of 12.
+Joint p_p-p_a regions containing truth = 9 of 16.
+Joint regions touching a probability bound = 0 of 16.
+Largest non-boundary contour threshold error = 0.00022036381 NLP units.
+Largest 1-D threshold error = 1.3821973e-06 NLP units.
+
+Drawing the manuscript-final Figure 6...
+
+============================================================
+STARTING THE MANUSCRIPT-FINAL MAP FIGURE 6
+Horizontal axis: passive detection probability, p_p.
+Vertical axis: active detection probability, p_a.
+No cluster will be simulated.
+No saved MAP point estimate will be changed.
+New detection profile-posterior uncertainty will be calculated.
+The first run is checkpointed panel by panel.
+Later matching runs load the completed cache and redraw quickly.
+
+PROJECT FOLDER:
+<ORIGINAL_PROJECT_ROOT>
+
+ALL FIGURE 6 MATERIALS WILL BE SAVED IN:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal
+============================================================
+
+SAVED MAP ANALYSIS OBJECT:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Final_Release_20260821_221527\Saved_Analysis_Objects\MAP_Figures_5_7_Analysis_Results.mat
+
+EXACT OBSERVED-CLUSTER COUNT FILE:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Final_Release_20260821_221527\Data_and_Numerical_Results\Figure5_7_MAP_Observed_Cluster_Counts.csv
+
+MAP SUMMARY FILE USED FOR AN INDEPENDENT CROSS-CHECK:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Final_Release_20260821_221527\Data_and_Numerical_Results\Figure5_6_MAP_Baseline_Estimates.csv
+
+CSV-versus-MAT MAP estimate check passed exactly.
+Saved MAP input checks passed.
+Displayed surveillance settings = 16.
+One fixed population of true clusters = 10000.
+Observed clusters range from 3213 to 10000.
+The MAP estimates and original Figure 5 intervals are unchanged.
+
+A matching Figure 6 profile cache was found.
+Completed panels in the cache = 16 of 16.
+
+All 16 detection profiles are already complete. No parallel pool is needed for this redraw.
+
+(a) detection profile already complete; loaded from cache.
+(b) detection profile already complete; loaded from cache.
+(c) detection profile already complete; loaded from cache.
+(d) detection profile already complete; loaded from cache.
+(e) detection profile already complete; loaded from cache.
+(f) detection profile already complete; loaded from cache.
+(g) detection profile already complete; loaded from cache.
+(h) detection profile already complete; loaded from cache.
+(i) detection profile already complete; loaded from cache.
+(j) detection profile already complete; loaded from cache.
+(k) detection profile already complete; loaded from cache.
+(l) detection profile already complete; loaded from cache.
+(m) detection profile already complete; loaded from cache.
+(n) detection profile already complete; loaded from cache.
+(o) detection profile already complete; loaded from cache.
+(p) detection profile already complete; loaded from cache.
+
+FINAL SCIENTIFIC CHECKS
+Mean absolute error for p_p = 0.115123.
+Mean absolute error for p_a, excluding the four generating p_p=1 settings = 0.177278.
+Separate p_p intervals containing truth = 12 of 16.
+Separate p_a intervals containing truth among data-identifiable settings = 9 of 12.
+Joint p_p-p_a regions containing truth = 9 of 16.
+Joint regions touching a probability bound = 0 of 16.
+Largest non-boundary contour threshold error = 0.00022036381 NLP units.
+Largest 1-D threshold error = 1.3821973e-06 NLP units.
+
+Drawing the manuscript-final Figure 6...
+Saving the manuscript-final Figure 6...
+    PNG canvas = 4800 by 3000 pixels.
+
+============================================================
+DONE: THE MANUSCRIPT-FINAL MAP FIGURE 6 WAS CREATED.
+Elapsed time for this run: 10.9 seconds.
+No cluster was simulated.
+No saved MAP point estimate was changed.
+Detection profile-posterior uncertainty was calculated: YES.
+Displayed surveillance settings = 16.
+Joint p_p-p_a regions containing truth = 9 of 16.
+
+ALL FIGURE 6 MATERIALS WERE SAVED IN:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal
+
+PDF FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure 6.pdf
+
+PNG FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure 6.png
+
+MATLAB FIG FILE:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure 6.fig
+
+RESULTS CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_results.csv
+
+PROFILE-CONTOUR CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_profile_contours.csv
+
+REUSABLE PROFILE CACHE:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_Profile_Cache.mat
+
+COMPLETE RESULTS MAT FILE:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_All_Results.mat
+
+SAVED CODE COPY:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal.m
+
+README:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\README_Figure6_MAP_Detection_Profiles_ManuscriptFinal.txt
+
+COMMAND-WINDOW LOG:
+<ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_Command_Window_Log.txt
+============================================================

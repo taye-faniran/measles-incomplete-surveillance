@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Measles Transmission Inference Under Incomplete Surveillance"
+type: software
+authors:
+  - family-names: Faniran
+    given-names: Taye Samuel
+  - family-names: Blumberg
+    given-names: Seth
+  - family-names: Cardenas
+    given-names: Santiago D.
+repository-code: "https://github.com/taye-faniran/measles-incomplete-surveillance"
+license: MIT
+version: "2026.08.26-public"
+date-released: 2026-08-26
+preferred-citation:
+  type: article
+  title: "Recorded Measles Cluster Sizes Inform Subcritical Transmission Only Jointly with Surveillance"
+  authors:
+    - family-names: Faniran
+      given-names: Taye Samuel
+    - family-names: Blumberg
+      given-names: Seth
+    - family-names: Cardenas
+      given-names: Santiago D.
+  journal: "BMC Medical Research Methodology"

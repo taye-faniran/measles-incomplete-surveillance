@@ -1,0 +1,5 @@
+EvidenceType,ModelQuantity,RequiredDenominator,UseInPrimaryAnalysis
+Overall case ascertainment or reporting completeness,Not automatically p_p,All infections in a defined source population,"Context only unless the measurement process matches the model"
+Passive routine detection probability,p_p,All infections before active follow-up,"No direct empirical prior available; use Beta(2,2)"
+Active detection among passively missed infections after activation,p_a,Passively missed infections eligible for active follow-up,"No genuine matching contact-tracing prior available; use Beta(2,2)"
+Combined probability that an infection is ultimately observed,p_obs = p_p + (1-p_p)p_a,All infections under the stated two-stage surveillance mechanism,"Derived from p_p and p_a; not supplied as a separate prior"

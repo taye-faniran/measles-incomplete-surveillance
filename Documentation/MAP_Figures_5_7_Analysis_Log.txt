@@ -1,0 +1,41 @@
+
+============================================================
+STARTING THE final MAP WORKFLOW
+True transmission: R_eff = 0.5000, k = 0.1500
+One fixed set of true clusters = 10000
+Baseline prior rule for BOTH p_p and p_a:
+  Beta(mu*phi,(1-mu)*phi), mu=0.75*truth, phi=20.0
+Sensitivity truth: p_p = 0.50, p_a = 0.50
+Sensitivity prior means: 0.20, 0.50, and 0.80
+No favorable-dataset selection and no spline interpolation are used.
+
+CHECKPOINTS ARE STORED IN:
+<ORIGINAL_PROJECT_ROOT>\Figure5_7_MAP_methodologicalComplete\Checkpoints
+
+ALL OUTPUTS FROM THIS RUN WILL BE SAVED IN:
+<ORIGINAL_PROJECT_ROOT>\Figure5_7_MAP_methodologicalComplete\Run_20260818_173142
+============================================================
+
+Simulating one fixed set of 10000 true clusters...
+(a) p_p=0.25, p_a=1.00: 3291 observed clusters.
+(b) p_p=0.50, p_a=1.00: 5696 observed clusters.
+(c) p_p=0.75, p_a=1.00: 7904 observed clusters.
+(d) p_p=1.00, p_a=1.00: 10000 observed clusters.
+(e) p_p=0.25, p_a=0.75: 3307 observed clusters.
+(f) p_p=0.50, p_a=0.75: 5744 observed clusters.
+(g) p_p=0.75, p_a=0.75: 7910 observed clusters.
+(h) p_p=1.00, p_a=0.75: 10000 observed clusters.
+(i) p_p=0.25, p_a=0.50: 3213 observed clusters.
+(j) p_p=0.50, p_a=0.50: 5717 observed clusters.
+(k) p_p=0.75, p_a=0.50: 7955 observed clusters.
+(l) p_p=1.00, p_a=0.50: 10000 observed clusters.
+(m) p_p=0.25, p_a=0.25: 3244 observed clusters.
+(n) p_p=0.50, p_a=0.25: 5705 observed clusters.
+(o) p_p=0.75, p_a=0.25: 7948 observed clusters.
+(p) p_p=1.00, p_a=0.25: 10000 observed clusters.
+Fixed simulation data are ready.
+Largest true cluster = 98.
+Observed clusters range from 3213 to 10000 across the 16 settings.
+
+Starting parallel pool (parpool) using the 'local' profile ...
+

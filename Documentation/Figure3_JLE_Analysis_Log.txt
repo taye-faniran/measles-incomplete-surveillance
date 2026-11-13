@@ -1,0 +1,84 @@
+============================================================
+STARTING CORRECT FIGURE 3: JOINT LIKELIHOOD ESTIMATION
+True transmission: R_eff = 0.5000, k = 0.1500
+Observed clusters per unique surveillance setting = 5000
+Auxiliary binomial trials per unique setting = 5000
+All four parameters R_eff, k, p_p, and p_a are estimated.
+The R_eff-k contours profile over p_p and p_a.
+The auxiliary Binomial measurement is independent of the cluster data.
+Exact p_a=0 and probability-one likelihood boundaries are handled safely.
+p_p is kept strictly positive because inference conditions on observation.
+No favorable-dataset selection and no spline interpolation are used.
+
+ALL FIGURES AND FILES WILL BE SAVED AUTOMATICALLY IN:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2
+============================================================
+
+A matching saved JLE analysis cache was found.
+The simulated data, estimates, CIs, and contours were loaded.
+
+
+Saving the MATLAB FIG file...
+Saving the full-size PNG figure...
+Saving the vector PDF figure...
+PNG, PDF, and FIG files were saved successfully.
+
+============================================================
+DONE: THE CORRECT JLE FIGURE 3 WAS CREATED.
+Elapsed time: 17.5 seconds.
+Unique independently simulated datasets = 13.
+Observed clusters per unique setting = 5000.
+Total independently simulated observed clusters = 65000.
+Auxiliary trials per unique setting = 5000.
+R_eff estimates range from 0.4677 to 0.5644.
+k estimates range from 0.12327 to 0.20746.
+Panels whose R_eff CI contains the truth = 16 of 16.
+Panels whose k CI contains the truth = 15 of 16.
+Panels whose two separate CIs both contain the truth = 15 of 16.
+Joint 2-D regions containing the true transmission pair = 16 of 16.
+Finite k upper limits exceeding 1 = 0.
+k upper intervals reaching the parameter bound = 0.
+Reported k range factor = 3.460.
+The selected k-axis is: Dispersion parameter, k (linear scale).
+Joint contours touching a parameter boundary = 0.
+Largest contour threshold error = 0.00079974 NLL units.
+Allowed contour threshold error = 0.02 NLL units.
+Largest omitted true-cluster tail mass = 8.88e-16.
+Largest omitted positive-observation tail mass = 9.96e-12.
+Largest expected omitted true-cluster count = 4.44e-12.
+Largest expected omitted positive-observation count = 4.98e-08.
+Allowed expected omitted count per dataset = 0.01.
+
+ALL FIGURES AND FILES WERE SAVED SUCCESSFULLY IN:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2
+
+PNG FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2.png
+
+PDF FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2.pdf
+
+MATLAB FIG FILE:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2.fig
+
+RESULTS CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_results.csv
+
+OBSERVED-COUNTS CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_observed_cluster_counts.csv
+
+PROFILE-CONTOUR CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_profile_contours.csv
+
+REUSABLE MAT CACHE:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_Analysis_Cache.mat
+
+SAVED CODE COPY:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_Correct.m
+
+README:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\README_Figure3_JLE.txt
+
+COMMAND-WINDOW LOG:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_Analysis_Log.txt
+============================================================

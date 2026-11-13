@@ -1,0 +1,17 @@
+Scenario,Parameter,Bias,MAE,RMSE,Approximate95Coverage,FailedFits,Replicates
+Moderate transmission; detection known,R_eff,-0.0175343524677169,0.0789965248881371,0.0988559625768485,0.945,0,200
+Moderate transmission; detection known,k,0.0463295670997585,0.0858867317060818,0.138141192113483,0.98,0,200
+Moderate transmission; detection known,p_p,0,0,0,NaN,0,200
+Moderate transmission; detection known,p_a,0,0,0,NaN,0,200
+Near-threshold transmission; detection known,R_eff,-0.0787286361739303,0.0918768182286762,0.120734554073161,0.805,0,200
+Near-threshold transmission; detection known,k,0.0274898848681338,0.0599470687986811,0.0873469037141172,0.965,0,200
+Near-threshold transmission; detection known,p_p,0,0,0,NaN,0,200
+Near-threshold transmission; detection known,p_a,0,0,0,NaN,0,200
+Moderate transmission; weak detection priors,R_eff,-0.0255172818464487,0.0746096020856058,0.0952719030560727,0.97,0,200
+Moderate transmission; weak detection priors,k,0.104030407009637,0.148986553860009,0.902290165965622,0.995,0,200
+Moderate transmission; weak detection priors,p_p,-0.0303337698949742,0.0512868172851641,0.0703902510513072,1,0,200
+Moderate transmission; weak detection priors,p_a,0.00815590776417537,0.0192779932681235,0.0251383067082554,1,0,200
+Moderate transmission; misspecified low detection priors,R_eff,0.0127870012703894,0.0707036261361584,0.0859115417885041,0.985,0,200
+Moderate transmission; misspecified low detection priors,k,-0.0173937614356129,0.0758892039414825,0.106734341882523,0.925,0,200
+Moderate transmission; misspecified low detection priors,p_p,-0.303917530179764,0.303917530179764,0.304494210197007,0,0,200
+Moderate transmission; misspecified low detection priors,p_a,-0.297245023149669,0.297245023149669,0.297467945475786,0,0,200

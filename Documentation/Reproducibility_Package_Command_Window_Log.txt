@@ -1,0 +1,208 @@
+
+============================================================
+STARTING THE OFFICIAL MANUSCRIPT REPRODUCIBILITY PACKAGE
+No simulation will be run.
+No parameter will be re-estimated.
+No MCMC calculation will be rerun.
+No saved numerical result will be changed.
+Original working folders will remain unchanged.
+
+PROJECT FOLDER:
+<ORIGINAL_PROJECT_ROOT>
+
+OFFICIAL RELEASE FOLDER:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957
+============================================================
+
+INDEXING THE PROJECT FILES ONCE...
+Indexed 643 source files.
+
+COLLECTING FINAL FIGURES
+  Figure 1.pdf: FOUND
+  Figure 1.png: FOUND
+  Figure 2.pdf: FOUND
+  Figure 2.png: FOUND
+  Figure 5.pdf: FOUND
+  Figure 5.png: FOUND
+  Figure 7.pdf: FOUND
+  Figure 7.png: FOUND
+COLLECTING THE APPROVED CORRECTED FIGURES 3, 4, AND 6
+  Figure 3.pdf: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2.pdf
+  Figure 3.png: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2.png
+  Figure 4.pdf: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure 4.pdf
+  Figure 4.png: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure 4.png
+  Figure 4.fig: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure 4.fig
+  Figure 6.pdf: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure 6.pdf
+  Figure 6.png: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure 6.png
+  Figure 6.fig: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure 6.fig
+
+COLLECTING FINAL TABLES
+  US_MAP_Primary_2020_2023_Parameter_Estimates.csv: FOUND
+  US_MAP_Prior_Sensitivity_Ranges.csv: FOUND
+  US_MAP_Prior_Sensitivity_All_Scenarios.csv: FOUND
+  US_Grouped_Measles_Data.csv: FOUND
+  US_MAP_Prior_Specification.csv: FOUND
+
+COLLECTING DATA AND NUMERICAL RESULTS
+  Figure1_Known_Surveillance_Parameter_Estimates.csv: FOUND
+  Figure1_Known_Surveillance_Quality_Control.csv: FOUND
+  Figure2_Fixed_Data_Parameter_Estimates.csv: FOUND
+  Figure2_Fixed_Observed_Dataset.csv: FOUND
+  Figure5_6_MAP_Baseline_Estimates.csv: FOUND
+  Figure5_7_MAP_Observed_Cluster_Counts.csv: FOUND
+  Figure5_7_MAP_True_Cluster_Sizes.csv: FOUND
+  Figure5_MAP_Profile_Contours.csv: FOUND
+  Figure7_MAP_Prior_Sensitivity.csv: FOUND
+  Figure7_MAP_Posterior_Samples.csv: FOUND
+  US_MAP_Primary_Posterior_Summary.csv: FOUND
+  US_MAP_Primary_Posterior_Samples.csv: FOUND
+  US_MAP_Primary_Posterior_Predictive_Check.csv: FOUND
+  US_MAP_Full_Snapshot_Posterior_Summary.csv: FOUND
+  US_MAP_Full_Snapshot_Posterior_Samples.csv: FOUND
+  US_MAP_Full_Snapshot_Posterior_Predictive_Check.csv: FOUND
+  US_MAP_Detection_Prior_Sensitivity.csv: FOUND
+  US_Grouped_Data_Simulation_Validation_Summary.csv: FOUND
+  US_Grouped_Data_Simulation_Validation_Requirements.csv: FOUND
+  Surveillance_Evidence_Classification.csv: FOUND
+COLLECTING THE APPROVED FIGURE 3, 4, AND 6 PROFILE DATA
+  Figure3_JLE_Parameter_Estimates.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_results.csv
+  Figure3_JLE_Observed_Cluster_Counts.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_observed_cluster_counts.csv
+  Figure3_JLE_Profile_Contours.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_profile_contours.csv
+  Figure4_JLE_Detection_Profile_Estimates.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_results.csv
+  Figure4_JLE_Detection_Profile_Surface.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_refined_profile_surface.csv
+  Figure4_JLE_Detection_Profile_Contours.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_profile_contours.csv
+  Figure4_JLE_Refined_Profile_Estimates.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_Final\Figure4_JLE_Detection_Profiles_Final_results.csv
+  Figure4_JLE_Refined_Profile_Surface.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_Final\Figure4_JLE_Detection_Profiles_Final_refined_profile_surface.csv
+  Figure4_JLE_Refined_Profile_Contours.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_Final\Figure4_JLE_Detection_Profiles_Final_profile_contours.csv
+  Figure6_MAP_Detection_Profile_Estimates.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_results.csv
+  Figure6_MAP_Detection_Profile_Contours.csv: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_profile_contours.csv
+
+VERIFYING APPROVED MANUSCRIPT NUMERICAL RESULTS
+  Approved numerical-result checks: PASSED
+
+COLLECTING SAVED ANALYSIS OBJECTS
+  Figure1_Known_Surveillance_Analysis_Results.mat: FOUND
+  MAP_Figures_5_7_Analysis_Results.mat: FOUND
+  US_Grouped_MAP_Analysis_Results.mat: FOUND
+COLLECTING THE APPROVED FIGURE 3, 4, AND 6 CACHES
+  Figure3_JLE_Analysis_Results.mat: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_Analysis_Cache.mat
+  Figure4_JLE_Detection_Profile_Coarse_Cache.mat: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_PublicationReady\Figure4_JLE_Detection_Profiles_PublicationReady_Profile_Cache.mat
+  Figure4_JLE_Detection_Profile_Refined_Cache.mat: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_Final\Figure4_JLE_Detection_Profiles_Final_Refined_Profile_Cache.mat
+  Figure4_JLE_Detection_Profile_Manuscript_Cache.mat: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_Profile_Cache.mat
+  Figure6_MAP_Detection_Profile_Cache.mat: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_Profile_Cache.mat
+  Figure6_MAP_Detection_Profile_All_Results.mat: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_All_Results.mat
+
+COLLECTING MATLAB SOURCE PROGRAMS
+  Create_Manuscript_Reproducibility_Package.m: FOUND
+  Figure1_Known_Surveillance_Analysis.m: FOUND
+  Figure2_Fixed_Data_Analysis.m: FOUND
+  Run_MAP_Analysis.m: FOUND
+  Redraw_MAP_Figures_5_7.m: FOUND
+  Run_US_Grouped_MAP_Analysis.m: FOUND
+  Create_US_MAP_Summary_Tables.m: OPTIONAL_MISSING
+COLLECTING THE APPROVED FIGURE 3, 4, AND 6 MATLAB PROGRAMS
+  Figure3_JLE_16Panel_Correct.m: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_Correct.m
+  Repair_JLE_Global_Optimum_Then_Run_Figure4.m: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Repair_JLE_Global_Optimum_Then_Run_Figure4.m
+  Figure4_JLE_Detection_Profiles_PublicationReady.m: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_PublicationReady\Figure4_JLE_Detection_Profiles_PublicationReady.m
+  Figure4_JLE_Detection_Profiles_Final.m: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_Final\Figure4_JLE_Detection_Profiles_Final.m
+  Figure4_JLE_Detection_Profiles_ManuscriptFinal.m: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal.m
+  Figure6_MAP_Detection_Profiles_ManuscriptFinal.m: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal.m
+
+CREATING MCMC REPRODUCIBILITY TABLES
+  MCMC settings and proposal scales: CREATED
+  Combined R-hat and ESS table: CREATED
+  MATLAB software environment: CREATED
+
+COLLECTING SAVED ANALYSIS LOGS
+  Figure1_Analysis_Log.txt: FOUND
+  Figure2_Analysis_Log.txt: FOUND
+  Figure3_JLE_Analysis_Log.txt: FOUND
+  Figure4_JLE_Detection_Log.txt: FOUND
+  MAP_Figures_5_7_Analysis_Log.txt: FOUND
+  MAP_Figures_5_7_Redraw_Log.txt: FOUND
+  US_Grouped_MAP_Analysis_Log.txt: FOUND
+COLLECTING THE APPROVED FIGURE 3, 4, AND 6 AUDIT LOGS
+  Figure3_JLE_Global_Optimum_Audit_Log.txt: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Repair_JLE_Global_Optimum_Command_Window_Log.txt
+  Figure4_JLE_Detection_Profiles_Log.txt: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_Command_Window_Log.txt
+  Figure6_MAP_Detection_Profiles_Log.txt: FOUND
+    source: <ORIGINAL_PROJECT_ROOT>\Figure6_MAP_Detection_Profiles_ManuscriptFinal\Figure6_MAP_Detection_Profiles_ManuscriptFinal_Command_Window_Log.txt
+
+============================================================
+THE REQUIRED-CONTENT AUDIT PASSED.
+The checksum manifest and ZIP archive will now be created.
+No simulation was run.
+No parameter was re-estimated.
+No MCMC calculation was rerun.
+No saved numerical result was changed.
+Public filenames use neutral, descriptive scientific names.
+Elapsed time: 14.3 seconds.
+
+OFFICIAL RELEASE FOLDER:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957
+
+FIGURES:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\Figures
+
+TABLES:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\Tables
+
+DATA AND NUMERICAL RESULTS:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\Data_and_Numerical_Results
+
+SAVED ANALYSIS OBJECTS:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\Saved_Analysis_Objects
+
+MATLAB CODE:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\MATLAB_Code
+
+DOCUMENTATION:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\Documentation
+
+MANIFEST:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\Reproducibility_Manifest.csv
+
+SHA-256 MANIFEST TARGET:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\SHA256_File_Manifest.csv
+
+README:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\README.txt
+
+COMMAND-WINDOW LOG:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Release_20260826_195957\Documentation\Reproducibility_Package_Command_Window_Log.txt
+
+FINAL ZIP TARGET:
+<ORIGINAL_PROJECT_ROOT>\Manuscript_Reproducibility_Package\Measles_Incomplete_Surveillance_Reproducibility_20260826_195957.zip
+============================================================

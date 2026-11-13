@@ -1,0 +1,11 @@
+
+============================================================
+STARTING THE NEAT REDRAW OF MAP FIGURES 5, 6, AND 7
+No simulation will be run.
+No parameter will be re-estimated.
+No numerical result will be changed.
+
+ALL REDRAWN FILES WILL BE SAVED AUTOMATICALLY IN:
+<ORIGINAL_PROJECT_ROOT>\Figure5_7_MAP_NeatRedraw\Run_20260821_194022
+============================================================
+

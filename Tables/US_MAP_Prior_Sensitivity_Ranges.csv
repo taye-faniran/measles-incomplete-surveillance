@@ -1,0 +1,5 @@
+SensitivityParameter,MinimumPosteriorMedian,MaximumPosteriorMedian,Conclusion
+R_eff,0.539215730107453,0.766138229210968,Transmission estimate changes materially with detection priors
+k,0.0691477356127502,0.226276170357757,Dispersion estimate changes materially with detection priors
+p_p,0.195216651047701,0.816652442353646,Passive detection estimate closely follows its prior
+p_a,0.182760766545657,0.812867174547717,Active detection estimate closely follows its prior

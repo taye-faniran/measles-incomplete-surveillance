@@ -1,0 +1,110 @@
+============================================================
+STARTING THE MANUSCRIPT-FINAL JLE FIGURE 4
+Horizontal axis: passive detection probability, p_p.
+Vertical axis: active detection probability, p_a.
+No cluster or auxiliary observation will be simulated.
+No approved JLE point estimate will be changed.
+No approved one-dimensional interval will be changed.
+No spline interpolation or cosmetic smoothing will be used.
+Panel (f) will receive one localized direct half-step likelihood check.
+Every other completed profile surface will be retained.
+The figure will be redrawn at its intended manuscript size.
+
+CORRECTED FIGURE 3 CACHE:
+<ORIGINAL_PROJECT_ROOT>\Figure3_JLE_16Panel_PublicationReady_v2\Figure3_JLE_16Panel_PublicationReady_v2_Analysis_Cache.mat
+
+COMPLETED REFINED FIGURE 4 CACHE:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_Final\Figure4_JLE_Detection_Profiles_Final_Refined_Profile_Cache.mat
+
+ALL MANUSCRIPT-FINAL FIGURE 4 MATERIALS WILL BE SAVED IN:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal
+============================================================
+
+Corrected Figure 3 checks passed.
+Displayed panels = 16.
+Unique independent analyses = 13.
+Observed clusters per unique analysis = 5000.
+Independent auxiliary trials per unique analysis = 5000.
+Corrected panel (c) NLL = 5684.6850109788.
+
+Completed refined Figure 4 profile checks passed.
+Saved panel (f) grid spacing = 0.00625.
+Saved panel (f) accepted components = 2.
+Only the narrow neighborhood responsible for this component count will be checked at the next half step.
+
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 10).
+Parallel processing is available.
+
+(f) directly checking the narrow confidence ridge at half the saved grid spacing...
+    Previous spacing = 0.006250.
+    Checked spacing  = 0.003125.
+    New direct likelihood evaluations = 3708.
+    Accepted components after checking = 2.
+    RESULT: 2 pieces remain after direct half-step checking; every piece will be retained and displayed.
+    Runtime = 402.5 seconds.
+
+All manuscript-final detection-profile surfaces are ready.
+New likelihood points evaluated by this program = 3708.
+Panel (f) accepted components = 2.
+Largest accepted-component count = 2.
+
+FINAL SCIENTIFIC CHECKS
+Mean absolute error for p_p = 0.034310.
+Mean absolute error for identifiable p_a = 0.067413.
+Mean absolute error for combined detection = 0.002810.
+Joint detection regions containing truth = 16 of 16.
+Structurally non-identifiable p_a panels = 4.
+
+Drawing the final Figure 4...
+Saving the final Figure 4...
+
+============================================================
+DONE: THE MANUSCRIPT-FINAL JLE FIGURE 4 WAS CREATED.
+Elapsed time for this run: 558.1 seconds.
+No new cluster or auxiliary data were simulated.
+No approved JLE point estimate was changed.
+No approved 1-D interval was changed.
+No spline interpolation or cosmetic smoothing was used.
+Direct adaptive likelihood refinement was used: YES.
+Panel (f) accepted components = 2.
+Physical figure size = 7.00 by 8.25 inches.
+Joint detection regions containing truth = 16 of 16.
+Mean absolute error for p_p = 0.034310.
+Mean absolute error for identifiable p_a = 0.067413.
+Mean absolute error for combined detection = 0.002810.
+Largest accepted-component count = 2.
+
+ALL MANUSCRIPT-FINAL FIGURE 4 MATERIALS WERE SAVED IN:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal
+
+PDF FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure 4.pdf
+
+PNG FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure 4.png
+
+MATLAB FIG FILE:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure 4.fig
+
+FINAL RESULTS CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_results.csv
+
+REFINED PROFILE-SURFACE CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_refined_profile_surface.csv
+
+PROFILE-CONTOUR CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_profile_contours.csv
+
+REUSABLE REFINED PROFILE CACHE:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal_Profile_Cache.mat
+
+SAVED CODE COPY:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Profiles_ManuscriptFinal.m
+
+README:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\README_Figure4_JLE_Detection_Profiles_ManuscriptFinal.txt
+
+COMMAND-WINDOW LOG:
+<ORIGINAL_PROJECT_ROOT>\Figure4_JLE_Detection_Profiles_ManuscriptFinal\Figure4_JLE_Detection_Log.txt
+============================================================

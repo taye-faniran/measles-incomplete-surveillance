@@ -1,0 +1,5 @@
+Analysis,Summary,Observed,PredictiveMedian,PredictiveLow,PredictiveHigh,TwoSidedPosteriorPredictiveP
+Primary_2020_2023,Size1Chains,43,43,34,52,1
+Primary_2020_2023,Size2Chains,6,6,1,11,1
+Primary_2020_2023,Size3PlusChains,13,13,6.475,22,1
+Primary_2020_2023,TotalCases,241,225.5,105.9,1147.575,0.866666666666667

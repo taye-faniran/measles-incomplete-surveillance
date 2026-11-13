@@ -1,10 +1,18 @@
+# MATLAB editor and autosave files
 *.asv
 *.autosave
-*.fig
-*.mlx~
 *.m~
-*.mat
+*.mlx~
+
+# MATLAB generated build folders
 slprj/
 codegen/
 mex/
 resources/project/
+
+# Local rerun outputs and checkpoints
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

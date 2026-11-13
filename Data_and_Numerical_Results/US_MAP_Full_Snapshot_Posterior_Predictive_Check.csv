@@ -1,0 +1,5 @@
+Analysis,Summary,Observed,PredictiveMedian,PredictiveLow,PredictiveHigh,TwoSidedPosteriorPredictiveP
+Full_Through_March_2024,Size1Chains,62,62,50,74,1
+Full_Through_March_2024,Size2Chains,10,9,3,16,0.873333333333333
+Full_Through_March_2024,Size3PlusChains,20,21,11,32,0.986666666666667
+Full_Through_March_2024,TotalCases,338,337,185.95,1118.125,0.986666666666667

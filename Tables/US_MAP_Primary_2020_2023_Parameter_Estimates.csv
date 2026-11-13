@@ -1,0 +1,5 @@
+Parameter,Meaning,MAP,PosteriorMedian,CredibleLow,CredibleHigh,Rhat,ESS,Interpretation
+R_eff,Effective reproduction number,0.698954689175246,0.719325787530812,0.470894695774912,0.95757548266777,1.00400660413389,1303.23140959864,"Subcritical transmission is supported under the prespecified R_eff<1 model, but values close to one remain plausible."
+k,Dispersion parameter,0.142820530549476,0.141701801000381,0.0408674894648334,0.535339772860631,1.00219518105528,734.356264452734,"Transmission is overdispersed, but the precise magnitude of overdispersion remains uncertain."
+p_p,Passive detection probability,0.49027921017233,0.522423232947483,0.152052215307714,0.914972865881321,1.00205229571002,1661.37288881158,"Passive detection is weakly identified by the grouped cluster data and remains sensitive to its prior."
+p_a,Active detection probability,0.503645467756082,0.492046387522625,0.0934943972705608,0.914592832303116,1.00254637420229,1794.21822089716,"Active detection is weakly identified by the grouped cluster data and remains strongly influenced by its prior."

@@ -1,0 +1,63 @@
+============================================================
+STARTING CORRECT FIGURE 2: ONE FIXED OBSERVED DATASET
+True transmission: R_eff = 0.5000, k = 0.1500
+True detection: p_p = 0.25, p_a = 0.50
+Fixed observed dataset: 5000 observed clusters
+At every panel, p_p and p_a are fixed at the displayed values.
+Only R_eff and k are estimated.
+No spline interpolation is used for the 2-D contours.
+
+ALL FIGURES AND FILES WILL BE SAVED AUTOMATICALLY IN:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct
+============================================================
+
+A matching saved analysis cache was found.
+The fixed data, estimates, confidence intervals, and contours were loaded.
+
+
+Saving the MATLAB FIG file...
+Saving the full-size PNG figure...
+Saving the vector PDF figure...
+PNG, PDF, and FIG files were saved successfully.
+
+============================================================
+DONE: THE CORRECT FIXED-DATA FIGURE 2 WAS CREATED.
+Elapsed time: 14.0 seconds.
+The same 5000 observed clusters were used in all 16 panels.
+True detection pair: p_p=0.25, p_a=0.50.
+True-pair panel: (i).
+Smallest reported positive k value = 0.129944.
+Largest reported finite k value = 0.640017.
+Overall reported k range factor = 4.925.
+Finite k upper limits exceeding 1 = 0.
+k upper intervals reaching the parameter bound = 0.
+The selected k-axis is: Dispersion parameter, k (linear scale).
+Joint contours touching a plotting boundary = 0.
+
+ALL FIGURES AND FILES WERE SAVED SUCCESSFULLY IN:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct
+
+PNG FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_FixedData_16Panel_Correct.png
+
+PDF FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_FixedData_16Panel_Correct.pdf
+
+MATLAB FIG FILE:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_FixedData_16Panel_Correct.fig
+
+RESULTS CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_FixedData_16Panel_Correct_results.csv
+
+FIXED OBSERVED DATASET CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_FixedData_16Panel_Correct_fixed_observed_dataset.csv
+
+REUSABLE MAT CACHE:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_FixedData_16Panel_Correct_Analysis_Cache.mat
+
+SAVED CODE COPY:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_FixedData_16Panel_Correct.m
+
+COMMAND-WINDOW LOG:
+<ORIGINAL_PROJECT_ROOT>\Figure2_FixedData_16Panel_Correct\Figure2_Analysis_Log.txt
+============================================================

@@ -1,0 +1,78 @@
+
+============================================================
+STARTING THE COMPATIBLE PUBLICATION-READY FIGURE 1 REDRAW
+No simulation will be run.
+No parameter will be re-estimated.
+No saved confidence interval will be changed.
+The fragile exportgraphics command is not used.
+
+ALL OUTPUTS WILL BE SAVED AUTOMATICALLY IN:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901
+============================================================
+
+CHECKING THE EXACT SAVED NUMERICAL RESULTS
+------------------------------------------------------------
+Saved-result checks passed.
+True R_eff = 0.5000; true k = 0.1500.
+Observed clusters per unique setting = 5000.
+Unique independently simulated datasets = 13.
+Total independently simulated observed clusters = 65000.
+Finite k upper limits exceeding 1 = 0.
+Infinite k upper limits = 0.
+
+CSV-versus-MAT check passed exactly.
+
+Recomputing smooth 2-D contours from the saved cluster counts...
+Smooth contour calculations completed.
+
+One-dimensional R_eff intervals containing truth = 15 of 16.
+One-dimensional k intervals containing truth = 16 of 16.
+Joint two-dimensional regions containing truth = 15 of 16.
+
+Saving the full-size PNG with the print engine...
+Saving the vector PDF with the print engine...
+PNG and PDF export checks passed.
+
+============================================================
+DONE: THE COMPATIBLE PUBLICATION-READY FIGURE 1 WAS CREATED.
+No simulation was run.
+No parameter was re-estimated.
+No saved confidence interval was changed.
+The exact saved numerical results were retained.
+
+R_eff 1-D intervals containing truth = 15 of 16.
+k 1-D intervals containing truth = 16 of 16.
+Joint 2-D regions containing truth = 15 of 16.
+PNG size = 4800 by 3150 pixels.
+PDF size = 44451 bytes.
+
+ALL OUTPUTS WERE SAVED SUCCESSFULLY IN:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901
+
+PNG FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure 1.png
+
+PDF FIGURE:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure 1.pdf
+
+MATLAB FIG FILE:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure 1.fig
+
+QUALITY-CONTROL CSV:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure1_PublicationReady_16Panel_LinearK_v2_quality_control.csv
+
+EXACT SAVED RESULTS CSV COPY:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure1_PublicationReady_16Panel_LinearK_v2_exact_saved_results.csv
+
+PLOT-DATA MAT FILE:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure1_PublicationReady_16Panel_LinearK_v2_plot_data.mat
+
+SAVED CODE COPY:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure1_PublicationReady_16Panel_LinearK_v2.m
+
+README:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\README_Figure1.txt
+
+COMMAND-WINDOW LOG:
+<ORIGINAL_PROJECT_ROOT>\Figure1_PublicationReady_16Panel_LinearK_v2\Run_20260821_193901\Figure1_Analysis_Log.txt
+============================================================

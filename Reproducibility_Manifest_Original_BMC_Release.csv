@@ -1,0 +1,88 @@
+Category,OfficialName,Status,RelativePath,Bytes,Modified
+Final figure,Figure 1.pdf,FOUND,Figures\Figure 1.pdf,44451,2026-08-21 19:39:39
+Final figure,Figure 1.png,FOUND,Figures\Figure 1.png,372981,2026-08-21 19:39:36
+Final figure,Figure 2.pdf,FOUND,Figures\Figure 2.pdf,29534,2026-08-21 19:39:55
+Final figure,Figure 2.png,FOUND,Figures\Figure 2.png,316301,2026-08-21 19:39:54
+Final figure,Figure 5.pdf,FOUND,Figures\Figure 5.pdf,33470,2026-08-18 17:44:29
+Final figure,Figure 5.png,FOUND,Figures\Figure 5.png,334434,2026-08-18 17:44:28
+Final figure,Figure 7.pdf,FOUND,Figures\Figure 7.pdf,14851,2026-08-18 17:44:38
+Final figure,Figure 7.png,FOUND,Figures\Figure 7.png,215431,2026-08-18 17:44:38
+Final figure,Figure 3.pdf,FOUND,Figures\Figure 3.pdf,41070,2026-08-25 08:40:08
+Final figure,Figure 3.png,FOUND,Figures\Figure 3.png,414529,2026-08-25 08:40:06
+Final figure,Figure 4.pdf,FOUND,Figures\Figure 4.pdf,49190,2026-08-25 11:40:54
+Final figure,Figure 4.png,FOUND,Figures\Figure 4.png,306499,2026-08-25 11:40:53
+Final figure,Figure 4.fig,FOUND,Figures\Figure 4.fig,1353246,2026-08-25 11:40:52
+Final figure,Figure 6.pdf,FOUND,Figures\Figure 6.pdf,35004,2026-08-25 16:01:14
+Final figure,Figure 6.png,FOUND,Figures\Figure 6.png,422059,2026-08-25 16:01:13
+Final figure,Figure 6.fig,FOUND,Figures\Figure 6.fig,420954,2026-08-25 16:01:09
+Final table,US_MAP_Primary_2020_2023_Parameter_Estimates.csv,FOUND,Tables\US_MAP_Primary_2020_2023_Parameter_Estimates.csv,1077,2026-08-20 13:17:35
+Final table,US_MAP_Prior_Sensitivity_Ranges.csv,FOUND,Tables\US_MAP_Prior_Sensitivity_Ranges.csv,473,2026-08-20 13:17:35
+Final table,US_MAP_Prior_Sensitivity_All_Scenarios.csv,FOUND,Tables\US_MAP_Prior_Sensitivity_All_Scenarios.csv,4002,2026-08-20 13:17:35
+Final table,US_Grouped_Measles_Data.csv,FOUND,Tables\US_Grouped_Measles_Data.csv,201,2026-08-19 09:34:41
+Final table,US_MAP_Prior_Specification.csv,FOUND,Tables\US_MAP_Prior_Specification.csv,378,2026-08-19 09:34:41
+Data or numerical result,Figure1_Known_Surveillance_Parameter_Estimates.csv,FOUND,Data_and_Numerical_Results\Figure1_Known_Surveillance_Parameter_Estimates.csv,2868,2026-08-13 08:02:26
+Data or numerical result,Figure1_Known_Surveillance_Quality_Control.csv,FOUND,Data_and_Numerical_Results\Figure1_Known_Surveillance_Quality_Control.csv,3636,2026-08-20 13:41:02
+Data or numerical result,Figure2_Fixed_Data_Parameter_Estimates.csv,FOUND,Data_and_Numerical_Results\Figure2_Fixed_Data_Parameter_Estimates.csv,2680,2026-08-21 19:39:42
+Data or numerical result,Figure2_Fixed_Observed_Dataset.csv,FOUND,Data_and_Numerical_Results\Figure2_Fixed_Observed_Dataset.csv,297,2026-08-21 19:39:42
+Data or numerical result,Figure5_6_MAP_Baseline_Estimates.csv,FOUND,Data_and_Numerical_Results\Figure5_6_MAP_Baseline_Estimates.csv,4896,2026-08-18 16:35:20
+Data or numerical result,Figure5_7_MAP_Observed_Cluster_Counts.csv,FOUND,Data_and_Numerical_Results\Figure5_7_MAP_Observed_Cluster_Counts.csv,13411,2026-08-18 17:31:44
+Data or numerical result,Figure5_7_MAP_True_Cluster_Sizes.csv,FOUND,Data_and_Numerical_Results\Figure5_7_MAP_True_Cluster_Sizes.csv,79225,2026-08-18 17:31:44
+Data or numerical result,Figure5_MAP_Profile_Contours.csv,FOUND,Data_and_Numerical_Results\Figure5_MAP_Profile_Contours.csv,32775,2026-08-18 16:35:20
+Data or numerical result,Figure7_MAP_Prior_Sensitivity.csv,FOUND,Data_and_Numerical_Results\Figure7_MAP_Prior_Sensitivity.csv,4865,2026-08-18 16:35:20
+Data or numerical result,Figure7_MAP_Posterior_Samples.csv,FOUND,Data_and_Numerical_Results\Figure7_MAP_Posterior_Samples.csv,8059811,2026-08-18 16:35:20
+Data or numerical result,US_MAP_Primary_Posterior_Summary.csv,FOUND,Data_and_Numerical_Results\US_MAP_Primary_Posterior_Summary.csv,675,2026-08-19 10:44:13
+Data or numerical result,US_MAP_Primary_Posterior_Samples.csv,FOUND,Data_and_Numerical_Results\US_MAP_Primary_Posterior_Samples.csv,1166008,2026-08-19 10:44:14
+Data or numerical result,US_MAP_Primary_Posterior_Predictive_Check.csv,FOUND,Data_and_Numerical_Results\US_MAP_Primary_Posterior_Predictive_Check.csv,314,2026-08-19 10:44:13
+Data or numerical result,US_MAP_Full_Snapshot_Posterior_Summary.csv,FOUND,Data_and_Numerical_Results\US_MAP_Full_Snapshot_Posterior_Summary.csv,694,2026-08-19 10:44:13
+Data or numerical result,US_MAP_Full_Snapshot_Posterior_Samples.csv,FOUND,Data_and_Numerical_Results\US_MAP_Full_Snapshot_Posterior_Samples.csv,1163857,2026-08-19 10:44:14
+Data or numerical result,US_MAP_Full_Snapshot_Posterior_Predictive_Check.csv,FOUND,Data_and_Numerical_Results\US_MAP_Full_Snapshot_Posterior_Predictive_Check.csv,367,2026-08-19 10:44:13
+Data or numerical result,US_MAP_Detection_Prior_Sensitivity.csv,FOUND,Data_and_Numerical_Results\US_MAP_Detection_Prior_Sensitivity.csv,4002,2026-08-19 10:40:54
+Data or numerical result,US_Grouped_Data_Simulation_Validation_Summary.csv,FOUND,Data_and_Numerical_Results\US_Grouped_Data_Simulation_Validation_Summary.csv,1772,2026-08-19 10:18:14
+Data or numerical result,US_Grouped_Data_Simulation_Validation_Requirements.csv,FOUND,Data_and_Numerical_Results\US_Grouped_Data_Simulation_Validation_Requirements.csv,522,2026-08-19 10:18:14
+Data or numerical result,Surveillance_Evidence_Classification.csv,FOUND,Data_and_Numerical_Results\Surveillance_Evidence_Classification.csv,804,2026-08-19 09:34:41
+Data or numerical result,Figure3_JLE_Parameter_Estimates.csv,FOUND,Data_and_Numerical_Results\Figure3_JLE_Parameter_Estimates.csv,5678,2026-08-25 08:39:52
+Data or numerical result,Figure3_JLE_Observed_Cluster_Counts.csv,FOUND,Data_and_Numerical_Results\Figure3_JLE_Observed_Cluster_Counts.csv,13611,2026-08-25 08:39:52
+Data or numerical result,Figure3_JLE_Profile_Contours.csv,FOUND,Data_and_Numerical_Results\Figure3_JLE_Profile_Contours.csv,45437,2026-08-25 08:39:52
+Data or numerical result,Figure4_JLE_Detection_Profile_Estimates.csv,FOUND,Data_and_Numerical_Results\Figure4_JLE_Detection_Profile_Estimates.csv,3572,2026-08-25 11:40:48
+Data or numerical result,Figure4_JLE_Detection_Profile_Surface.csv,FOUND,Data_and_Numerical_Results\Figure4_JLE_Detection_Profile_Surface.csv,1655399,2026-08-25 11:40:48
+Data or numerical result,Figure4_JLE_Detection_Profile_Contours.csv,FOUND,Data_and_Numerical_Results\Figure4_JLE_Detection_Profile_Contours.csv,141043,2026-08-25 11:40:48
+Data or numerical result,Figure4_JLE_Refined_Profile_Estimates.csv,FOUND,Data_and_Numerical_Results\Figure4_JLE_Refined_Profile_Estimates.csv,3281,2026-08-25 11:00:16
+Data or numerical result,Figure4_JLE_Refined_Profile_Surface.csv,FOUND,Data_and_Numerical_Results\Figure4_JLE_Refined_Profile_Surface.csv,1489771,2026-08-25 11:00:18
+Data or numerical result,Figure4_JLE_Refined_Profile_Contours.csv,FOUND,Data_and_Numerical_Results\Figure4_JLE_Refined_Profile_Contours.csv,123905,2026-08-25 11:00:18
+Data or numerical result,Figure6_MAP_Detection_Profile_Estimates.csv,FOUND,Data_and_Numerical_Results\Figure6_MAP_Detection_Profile_Estimates.csv,4293,2026-08-25 16:01:05
+Data or numerical result,Figure6_MAP_Detection_Profile_Contours.csv,FOUND,Data_and_Numerical_Results\Figure6_MAP_Detection_Profile_Contours.csv,32749,2026-08-25 16:01:05
+Saved analysis object,Figure1_Known_Surveillance_Analysis_Results.mat,FOUND,Saved_Analysis_Objects\Figure1_Known_Surveillance_Analysis_Results.mat,5210,2026-08-13 08:02:26
+Saved analysis object,MAP_Figures_5_7_Analysis_Results.mat,FOUND,Saved_Analysis_Objects\MAP_Figures_5_7_Analysis_Results.mat,2093468,2026-08-18 17:44:23
+Saved analysis object,US_Grouped_MAP_Analysis_Results.mat,FOUND,Saved_Analysis_Objects\US_Grouped_MAP_Analysis_Results.mat,3841794,2026-08-19 10:45:03
+Saved analysis object,Figure3_JLE_Analysis_Results.mat,FOUND,Saved_Analysis_Objects\Figure3_JLE_Analysis_Results.mat,11828662,2026-08-25 08:39:50
+Saved analysis object,Figure4_JLE_Detection_Profile_Coarse_Cache.mat,FOUND,Saved_Analysis_Objects\Figure4_JLE_Detection_Profile_Coarse_Cache.mat,253950,2026-08-25 09:10:02
+Saved analysis object,Figure4_JLE_Detection_Profile_Refined_Cache.mat,FOUND,Saved_Analysis_Objects\Figure4_JLE_Detection_Profile_Refined_Cache.mat,504067,2026-08-25 11:00:15
+Saved analysis object,Figure4_JLE_Detection_Profile_Manuscript_Cache.mat,FOUND,Saved_Analysis_Objects\Figure4_JLE_Detection_Profile_Manuscript_Cache.mat,652331,2026-08-25 11:40:48
+Saved analysis object,Figure6_MAP_Detection_Profile_Cache.mat,FOUND,Saved_Analysis_Objects\Figure6_MAP_Detection_Profile_Cache.mat,204896,2026-08-25 15:08:59
+Saved analysis object,Figure6_MAP_Detection_Profile_All_Results.mat,FOUND,Saved_Analysis_Objects\Figure6_MAP_Detection_Profile_All_Results.mat,438088,2026-08-25 16:01:05
+MATLAB code,Create_Manuscript_Reproducibility_Package.m,FOUND,MATLAB_Code\Create_Manuscript_Reproducibility_Package.m,61092,2026-08-26 19:59:53
+MATLAB code,Figure1_Known_Surveillance_Analysis.m,FOUND,MATLAB_Code\Figure1_Known_Surveillance_Analysis.m,34205,2026-08-26 20:00:03
+MATLAB code,Figure2_Fixed_Data_Analysis.m,FOUND,MATLAB_Code\Figure2_Fixed_Data_Analysis.m,42349,2026-08-26 20:00:03
+MATLAB code,Run_MAP_Analysis.m,FOUND,MATLAB_Code\Run_MAP_Analysis.m,88401,2026-08-26 20:00:03
+MATLAB code,Redraw_MAP_Figures_5_7.m,FOUND,MATLAB_Code\Redraw_MAP_Figures_5_7.m,36252,2026-08-26 20:00:03
+MATLAB code,Run_US_Grouped_MAP_Analysis.m,FOUND,MATLAB_Code\Run_US_Grouped_MAP_Analysis.m,68076,2026-08-26 20:00:04
+MATLAB code,Create_US_MAP_Summary_Tables.m,OPTIONAL_MISSING,MATLAB_Code\Create_US_MAP_Summary_Tables.m,NaN,
+MATLAB code,Figure3_JLE_16Panel_Correct.m,FOUND,MATLAB_Code\Figure3_JLE_16Panel_Correct.m,50719,2026-08-17 13:56:59
+MATLAB code,Repair_JLE_Global_Optimum_Then_Run_Figure4.m,FOUND,MATLAB_Code\Repair_JLE_Global_Optimum_Then_Run_Figure4.m,38375,2026-08-25 08:34:01
+MATLAB code,Figure4_JLE_Detection_Profiles_PublicationReady.m,FOUND,MATLAB_Code\Figure4_JLE_Detection_Profiles_PublicationReady.m,38584,2026-08-24 19:52:37
+MATLAB code,Figure4_JLE_Detection_Profiles_Final.m,FOUND,MATLAB_Code\Figure4_JLE_Detection_Profiles_Final.m,43582,2026-08-25 10:16:34
+MATLAB code,Figure4_JLE_Detection_Profiles_ManuscriptFinal.m,FOUND,MATLAB_Code\Figure4_JLE_Detection_Profiles_ManuscriptFinal.m,45647,2026-08-25 11:31:34
+MATLAB code,Figure6_MAP_Detection_Profiles_ManuscriptFinal.m,FOUND,MATLAB_Code\Figure6_MAP_Detection_Profiles_ManuscriptFinal.m,54630,2026-08-25 16:01:01
+MCMC documentation,US_MAP_MCMC_Settings_and_Proposal_Scales.csv,FOUND,Documentation\US_MAP_MCMC_Settings_and_Proposal_Scales.csv,1983,2026-08-26 20:00:04
+MCMC documentation,US_MAP_MCMC_Diagnostics.csv,FOUND,Documentation\US_MAP_MCMC_Diagnostics.csv,508,2026-08-26 20:00:05
+Software documentation,MATLAB_Software_Environment.txt,FOUND,Documentation\MATLAB_Software_Environment.txt,4046,2026-08-26 20:00:10
+Analysis log,Figure1_Analysis_Log.txt,FOUND,Documentation\Figure1_Analysis_Log.txt,3892,2026-08-26 20:00:10
+Analysis log,Figure2_Analysis_Log.txt,FOUND,Documentation\Figure2_Analysis_Log.txt,3143,2026-08-26 20:00:10
+Analysis log,Figure3_JLE_Analysis_Log.txt,FOUND,Documentation\Figure3_JLE_Analysis_Log.txt,4526,2026-08-26 20:00:10
+Analysis log,Figure4_JLE_Detection_Log.txt,FOUND,Documentation\Figure4_JLE_Detection_Log.txt,5716,2026-08-26 20:00:10
+Analysis log,MAP_Figures_5_7_Analysis_Log.txt,FOUND,Documentation\MAP_Figures_5_7_Analysis_Log.txt,1851,2026-08-26 20:00:10
+Analysis log,MAP_Figures_5_7_Redraw_Log.txt,FOUND,Documentation\MAP_Figures_5_7_Redraw_Log.txt,454,2026-08-26 20:00:10
+Analysis log,US_Grouped_MAP_Analysis_Log.txt,FOUND,Documentation\US_Grouped_MAP_Analysis_Log.txt,3886,2026-08-26 20:00:10
+Analysis log,Figure3_JLE_Global_Optimum_Audit_Log.txt,FOUND,Documentation\Figure3_JLE_Global_Optimum_Audit_Log.txt,8827,2026-08-25 09:10:12
+Analysis log,Figure4_JLE_Detection_Profiles_Log.txt,FOUND,Documentation\Figure4_JLE_Detection_Profiles_Log.txt,5756,2026-08-25 11:40:54
+Analysis log,Figure6_MAP_Detection_Profiles_Log.txt,FOUND,Documentation\Figure6_MAP_Detection_Profiles_Log.txt,14712,2026-08-25 16:01:15
