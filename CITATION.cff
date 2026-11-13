@@ -11,8 +11,8 @@ authors:
     given-names: Santiago D.
 repository-code: "https://github.com/taye-faniran/measles-incomplete-surveillance"
 license: MIT
-version: "2026.08.26-public"
-date-released: 2026-08-26
+version: "1.0.0"
+date-released: 2026-11-13
 preferred-citation:
   type: article
   title: "Recorded Measles Cluster Sizes Inform Subcritical Transmission Only Jointly with Surveillance"
